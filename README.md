@@ -25,6 +25,7 @@ Merge Sort'a göre diziyi tek eleman kalana dek ikiye bölme işlemi yapıyoruz.
 ```
 
 ---
+2.
 ```
 Merge Sort'un Big-O gösterimi O(nlogn)
 n=6
